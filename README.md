@@ -7,6 +7,9 @@ It serves as a platform to showcase our skills, projects, and passion for cybers
 
 - **Secure Configuration**: This website is configured with **TLS 1.3** and **HSTS** (HTTP Strict Transport Security) to ensure secure communication and protect against common web vulnerabilities.
 ![Our SSL Report](ssl_report.png)
+-- **Steganography with java*: This code is in Java and can embed and extract a secret message from an image .
+  ![image](https://github.com/user-attachments/assets/b98a4876-ab8e-4dc9-adc1-0b788b2abee6)
+
 
 ## About Us
 
