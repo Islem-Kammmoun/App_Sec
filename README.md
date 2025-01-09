@@ -6,6 +6,7 @@ It serves as a platform to showcase our skills, projects, and passion for cybers
 ## Functionalities
 
 - **Secure Configuration**: This website is configured with **TLS 1.3** and **HSTS** (HTTP Strict Transport Security) to ensure secure communication and protect against common web vulnerabilities.
+![Our SSL Report](ssl_report.png)
 
 ## About Us
 
